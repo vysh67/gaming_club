@@ -32,8 +32,8 @@ Make sure you have installed:
 
 Clone the Repository
 
-        git clone https://github.com/yourusername/gaming_club.git
-        cd gaming_clubbackend
+        git clone https://github.com/vysh67/gaming_club.git
+        cd gaming_club
 
 
 Configure Database
